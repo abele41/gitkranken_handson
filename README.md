@@ -1,5 +1,7 @@
+
 # GitKranken Hands-on
-Sample project for working with the Git version 
+Sample project for working with the Git version
+Created and modified while working with a great class at IQSS
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming classes. We have code in R and Python.
