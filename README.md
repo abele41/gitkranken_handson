@@ -1,5 +1,7 @@
 
-# New Title
+
+
+# New Title of GitKraken
 Sample project for working with the Git version
 Created and modified while working with a great class at IQSS
 
