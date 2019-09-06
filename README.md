@@ -1,4 +1,4 @@
-gitkranken_handson
+# gitkranken_handson
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming classes. We have code in R and Python.
