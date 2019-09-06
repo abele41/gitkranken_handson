@@ -1,5 +1,5 @@
 
-# GitKranken Hands-on
+# New Title
 Sample project for working with the Git version
 Created and modified while working with a great class at IQSS
 
